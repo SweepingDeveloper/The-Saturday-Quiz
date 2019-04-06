@@ -26,6 +26,7 @@
 </ul>
 <?php
 //This is just the login, and not the constants file.  Obviously, this is something that needs refactoring, among other things.
+define ('login', TRUE);
 include 'mysql_login.php';
 
 
