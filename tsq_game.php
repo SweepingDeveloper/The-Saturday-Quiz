@@ -1,6 +1,6 @@
 <?php
+define ('constants', TRUE);
 include 'tsq_constants.php';
-
 ?>
 
 
